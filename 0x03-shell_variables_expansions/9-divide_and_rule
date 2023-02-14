@@ -1,2 +1,2 @@
 #!/bin/bash
-export $(($POWER=12 / $DIVIDE=2))
+export POWER=12 / DIVIDE=2
